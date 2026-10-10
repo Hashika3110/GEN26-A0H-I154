@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I154
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<NEXUS0>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |    Hashika N    |   CB.PS.I5MAT25008  |     Female     |  Integrated Msc. Math and Computing  |  
+|    Member 2     |    Uthara U     |   CB.PS.I5MAT25015  |   Female       |  Integrated Msc. Math and Computing  |  
+|    Member 3     |    Muskaan Chhabra  |    CB.PS.I5MAT25012  |  Female   |  Integrated Msc. Math and Computing  |  
+|    Member 4     |    Madana Ankitha  |      CB.PS.I5MAT25009 |    Female |   Integrated Msc. Math and Computing  |   
 

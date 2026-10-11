@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I154
 ### Team Details
-#### **Team Name** NEXUS0
+#### **Team Name**: NEXUS0
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Hosteller - Hostel Name / Day Scholar    |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------------|
